@@ -7,5 +7,6 @@ def circle_area(r):
     ========
     Inputs:
     r (float64): Radius of the circle
+    love (indescribable): We are nothing withough love
     '''
     return np.pi*r**2
